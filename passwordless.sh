@@ -24,8 +24,8 @@ echo $USER
 # KEYNAME as desired.
 #
 
-USER=root
-HOMEDIR=/root
+USER=tboudwin
+HOMEDIR=/users/tboudwin
 KEYNAME=id_rsa
 
 #
